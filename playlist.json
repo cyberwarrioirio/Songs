@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Afreen Afreen",
+    "artist": "Abdullah Asad",
+    "audio": "audio/Afree Afreee My Original.mp3",
+    "thumb": "audio/first-song.jpg"
+  },
+  {
+    "title": "Second Song",
+    "artist": "Abdullah",
+    "audio": "audio/second-song.mp3",
+    "thumb": "audio/second-song.jpg"
+  }
+]
